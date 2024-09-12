@@ -1,1 +1,1 @@
-CSC20 Assignments
+CSC 15 & 20 Code/Projects
